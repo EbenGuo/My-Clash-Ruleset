@@ -1,5 +1,7 @@
 # 我的代理列表
 DOMAIN-SUFFIX,mojie.cyou
-DOMAIN,raw.githubusercontent.com
 DOMAIN-SUFFIX,paofu.cloud
 DOMAIN,playwright.azureedge.net
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,fsm.name
+DOMAIN-SUFFIX,pixian.ai

@@ -1,0 +1,17 @@
+{
+  "sites": [
+    {
+      "key": "alist",
+      "name": "BMW",
+      "type": 3,
+      "api": "http://ebenguo.asia:12303/dav",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "username": "TV",
+        "password": "1021959371"
+      }
+    }
+  ]
+}
